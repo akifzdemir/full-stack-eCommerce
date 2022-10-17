@@ -49,7 +49,7 @@
 | yup | 0.32.11 |
 | web-vitals | 2.1.4 |
 
-## Screen Shouts
+## Screen Shots
 
 **Home**
 <img src="./client-images/home.png"/>
